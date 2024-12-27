@@ -1,1 +1,2 @@
-PyqtOpengl STEP 1
+# PyqtOpengl STEP 1
+This sample is 
