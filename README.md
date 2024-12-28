@@ -1,3 +1,6 @@
 # PyqtOpengl STEP 1
-## step0100_PyQt6.py
+## Simple Sample
+step0100_PyQt6.py
 ![step0100](https://github.com/IseShouzou/PyqtOpenGL/blob/main/step0100_PyQt6.png)
+
+## Using GLSL
