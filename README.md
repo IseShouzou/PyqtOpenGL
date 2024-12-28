@@ -16,10 +16,12 @@ step0103_makeClass.py
 
 ## 3D View
 step0104_3DView.py  
+  
 step0105_moveViewByMouse.py
-- mouse move with left Button  -->> translate view
-- mouse move with right Button -->> rotate view
-
+- mouse move with left Button  -->> translate view  
+- mouse move with right Button -->> rotate view  
+- doubleclick                  -->> set rotate view  
+- mouse wheel                  -->> zoom in/out  
 
 ![step0104](https://github.com/IseShouzou/PyqtOpenGL/blob/main/step0104_3DView.png)
 
