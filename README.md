@@ -25,4 +25,13 @@ step0105_moveViewByMouse.py
 
 ![step0104](https://github.com/IseShouzou/PyqtOpenGL/blob/main/step0104_3DView.png)
 
-## XXX
+## Make Class ObjeCollection
+step0106_ObjeCollection.py
+
+![step0106](https://github.com/IseShouzou/PyqtOpenGL/blob/main/step0106_ObjeCollection.png)
+
+## Various Objects
+step0107_VariousObjects.py
+
+![step0107](https://github.com/IseShouzou/PyqtOpenGL/blob/main/step0107_VariousObjects.png)
+
