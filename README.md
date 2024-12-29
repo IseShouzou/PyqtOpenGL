@@ -26,6 +26,7 @@ step0105_moveViewByMouse.py
 ![step0104](https://github.com/IseShouzou/PyqtOpenGL/blob/main/step0104_3DView.png)
 
 ## Make Class ObjeCollection
+Make a class that represent a collection of objects
 step0106_ObjeCollection.py
 
 ![step0106](https://github.com/IseShouzou/PyqtOpenGL/blob/main/step0106_ObjeCollection.png)
