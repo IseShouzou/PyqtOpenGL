@@ -1,5 +1,5 @@
 # PyqtOpengl STEP 1
-Here are some examples of OpenGL using PyQt6, starting from simple examples.
+Here are some examples of OpenGL using PyQt6, starting from simple examples.  
 It would be very helpful to have a simple example that works fine.
 
 ## Simple Sample
