@@ -36,3 +36,8 @@ step0107_VariousObjects.py
 
 ![step0107](https://github.com/IseShouzou/PyqtOpenGL/blob/main/step0107_VariousObjects.png)
 
+## Lighting
+step0108_Lighting.py
+
+![step0108](https://github.com/IseShouzou/PyqtOpenGL/blob/main/step0108_Lighting.png)
+
