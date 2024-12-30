@@ -44,7 +44,7 @@ step0108_Lighting.py
 
 ![step0108](https://github.com/IseShouzou/PyqtOpenGL/blob/main/step0108_Lighting.png)
 
-## Lighting
+## Shadow Mapping
 step0109_ShadowMapping.py
 
-![step0108](https://github.com/IseShouzou/PyqtOpenGL/blob/main/step0108_Lighting.png)
+![step0108](https://github.com/IseShouzou/PyqtOpenGL/blob/main/step0109_ShadowMapping.png)
