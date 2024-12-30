@@ -1,5 +1,6 @@
 # PyqtOpengl STEP 1
 Here are some examples of OpenGL using PyQt6, starting from simple examples.
+It would be very helpful to have a simple example that works fine.
 
 ## Simple Sample
 step0100_PyQt6.py
@@ -43,3 +44,7 @@ step0108_Lighting.py
 
 ![step0108](https://github.com/IseShouzou/PyqtOpenGL/blob/main/step0108_Lighting.png)
 
+## Lighting
+step0109_ShadowMapping.py
+
+![step0108](https://github.com/IseShouzou/PyqtOpenGL/blob/main/step0108_Lighting.png)
