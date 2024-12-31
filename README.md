@@ -47,4 +47,9 @@ step0108_Lighting.py
 ## Shadow Mapping
 step0109_ShadowMapping.py
 
-![step0108](https://github.com/IseShouzou/PyqtOpenGL/blob/main/step0109_ShadowMapping.png)
+![step0109](https://github.com/IseShouzou/PyqtOpenGL/blob/main/step0109_ShadowMapping.png)
+
+## Texture Mapping
+step0110_TextureMapping.py
+
+![step0110](https://github.com/IseShouzou/PyqtOpenGL/blob/main/step0110_TextureMapping.png)
