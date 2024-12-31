@@ -53,3 +53,8 @@ step0109_ShadowMapping.py
 step0110_TextureMapping.py
 
 ![step0110](https://github.com/IseShouzou/PyqtOpenGL/blob/main/step0110_TextureMapping.png)
+
+## Sky and Sea in the background
+step0111_SkyAndSea.py
+
+![step0111](https://github.com/IseShouzou/PyqtOpenGL/blob/main/step0111_SkyAndSea.png)
